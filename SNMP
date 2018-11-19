@@ -1,0 +1,3 @@
+SNMP UDP - 161
+
+onesixtyone 10.10.10.92 -c /usr/share/doc/onesixtyone/dict.txt
